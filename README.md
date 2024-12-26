@@ -116,7 +116,7 @@
    JWT_REFRESH_SECRET=refreshscret
    JWT_REFRESH_EXPIRES_IN=365d
 
-# Usage : 
+# Usage
 
 ```
 npm run dev
