@@ -75,7 +75,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Sumon-DevCoder/mega-mart-server.git
+   git clone https://github.com/Sumon-DevCoder/mega-mart-backend.git
    ```
 
 2. **Navigate into the project directory**:
