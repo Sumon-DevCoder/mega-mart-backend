@@ -12,6 +12,9 @@
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
 
 # Project Overview:
 
@@ -25,7 +28,7 @@
 - **Scalability**: Ensure the platform can handle growing traffic and data, accommodating an expanding inventory, user base, and booking needs.
 - **Real-Time Interaction**: Implement real-time updates for product and slot availability to enhance user engagement and admin oversight.
 
-## Core Features
+## Features
 
 1. **Product Browsing and Management**:
 
@@ -112,3 +115,12 @@
    JWT_ACCESS_EXPIRES_IN=365d
    JWT_REFRESH_SECRET=refreshscret
    JWT_REFRESH_EXPIRES_IN=365d
+
+# Usage : 
+
+```
+npm run dev
+```
+
+# License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal, educational, or commercial purposes, subject to the terms of the license. See the LICENSE file for more details.
